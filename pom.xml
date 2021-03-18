@@ -11,9 +11,9 @@
 	<groupId>com.api</groupId>
 	<artifactId>vacinas</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>vacinas</name>
-	<description>Demo project for Spring Boot</description>
+	<description>API REST Spring Boot</description>
 	<properties>
 		<java.version>8</java.version>
 	</properties>
